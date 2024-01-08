@@ -11,11 +11,11 @@
 
 ## Technology used :
 -  JAVA ---  SPRING BOOT ---  DOCKER 
--  Resilience4j --- CircuitBreaker --- Rate Limiter --- Redis
+-  RESILIENCE4J --- CIRCUIT-BREAKER
 -  CI/CD --- JUNIT5 ---  MOCKITO --- JACOCO
 -  API GATEWAY ---  SERVICE DISCOVERY (EUREKA)
 -  OPEN FEIGN --- OPEN API (SWAGGER)
--  KEYCLOAK --- SPRING DATA JPA --- MYSQL
+-  SPRING SECURITY --- SPRING DATA JPA --- MYSQL
 
 
 ### Eureka Discovery
