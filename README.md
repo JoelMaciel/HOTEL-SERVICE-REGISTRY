@@ -19,4 +19,4 @@
 
 
 ### Eureka Discovery
-![Captura de tela de 2024-01-06 13-25-35](https://github.com/JoelMaciel/KAF-USER-SERVICE/assets/77079093/9d2a41f9-9492-4159-b031-376cf110aac4)
+![Captura de tela de 2024-01-08 17-06-34](https://github.com/JoelMaciel/KAF-AUTHENTICATION-SERVICE/assets/77079093/59454fe7-93d7-4826-bd00-062bb24e9bfb)
